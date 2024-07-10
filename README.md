@@ -1,3 +1,5 @@
+![Minist Image Example](image.png)
+
 # Minist Image Classification using CNN
 
 ## Overview
