@@ -1,6 +1,6 @@
-![Minist Image Example](image.png)
-
 # Minist Image Classification using CNN
+
+![Minist Image Example](image.png)
 
 ## Overview
 
